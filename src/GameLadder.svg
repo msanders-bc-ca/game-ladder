@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg style="zoom:1" baseProfile="full" version="1.1" viewBox="0 0 480 360" xmlns="http://www.w3.org/2000/svg">
+<title>Untitled.svg</title>
+<rect width="480px" height="360px" fill="#deb887"/>
+<text transform="" x="232px" y="75px" fill="black" font-family="Helvetica" font-size="30px" text-anchor="middle" text-rendering="geometricPrecision" style="outline-style:none" xml:space="preserve">Game Ladder</text>
+<line transform="" x1="47px" x2="157px" y1="329px" y2="96px" stroke="#000" stroke-width="3px"/>
+<line transform="" x1="419px" x2="304px" y1="335px" y2="97px" stroke="#000" stroke-width="3px"/>
+<rect transform="" x="192px" y="105px" width="64px" height="40px" fill="blue" stroke="#000" stroke-width="3px"/>
+<rect transform="" x="146px" y="172px" width="67px" height="45px" fill="blue" stroke="#000" stroke-width="3px"/>
+<rect transform="" x="103px" y="239px" width="67px" height="45px" fill="blue" stroke="#000" stroke-width="3px"/>
+<rect transform="" x="195px" y="241px" width="67px" height="45px" fill="blue" stroke="#000" stroke-width="3px"/>
+<rect transform="" x="244px" y="172px" width="73px" height="45px" fill="blue" stroke="#000" stroke-width="3px"/>
+<rect transform="" x="286px" y="241px" width="67px" height="45px" fill="blue" stroke="#000" stroke-width="3px"/>
+</svg>
